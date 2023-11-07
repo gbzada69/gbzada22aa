@@ -1,15 +1,15 @@
 body {
-       background-color: black;
+       background-color: #db02;
 }
 
-h1{
-       color:blue
+   #titulo {
+       color: #3ca00e
        font-size: 50px;
-       text-align: justify;
+       text-align: center;
 }
 
-p {
-     color:aquamarine
+   texto {
+     color: #2fd92f
      font-size: 30px;
      text-align:justify;
-        {
+   }
